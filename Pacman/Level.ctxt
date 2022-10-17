@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Level
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Level\ here.\r\n\ \r\n\ @author\ (Jorge\ Alberto\ Hernandez\ Soria)\ \r\n\ @version\ (0.1)\r\n
+comment1.params=
+comment1.target=Level()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Level.\r\n\ \r\n
+comment2.params=amount
+comment2.target=void\ addScore(int)
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=
+comment4.target=void\ drawMap()
+numComments=5
